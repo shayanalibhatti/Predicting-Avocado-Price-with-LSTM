@@ -2,7 +2,7 @@
 In this project, I created a Avocado Price prediction model using the Avocado price dataset from Kaggle. LSTM is used for prediction model. The code with all details are provided in Jupyter notebook in the repository.
 
 #### Data:
-The dataset has 169 rows of avocado pricing data per region comprising over 2015,2016,2017 and 2018. Half of those records are for conventional avocadoes and rest for organic avocadoes. The data is provided for 54 regions. For simplicity, I only made model for Albany. for conventional avocadoes. Also because we cant make a general pricing model for all states. The viewers are free to change the name of state or predict price for organic avocadoes.
+The dataset has 169 rows of avocado pricing data per region comprising over 2015,2016,2017 and 2018. Half of those records are for conventional avocadoes and rest for organic avocadoes. The data is provided for 54 regions. For simplicity, I only made model for Albany, for conventional avocadoes. Also because we cant make a general pricing model for all states, it wouldnt make sense. The viewers are free to change the name of state or predict price for organic avocadoes to play around with data.
 
 #### Result:
 Following training vs validation loss curve is observed for the model:
