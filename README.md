@@ -7,7 +7,7 @@ The dataset has 169 rows of avocado pricing data per region comprising over 2015
 #### Result:
 Following training vs validation loss curve is observed for the model:
 
-![image](https://user-images.githubusercontent.com/41015749/72690753-5b33c100-3aed-11ea-94c7-fff62c375a00.png)
+![image](https://user-images.githubusercontent.com/41015749/72690838-0cd2f200-3aee-11ea-954d-227f52907840.png)
 
 After fitting the model, following curve between predicted prices vs actual test set prices is observed.
 
